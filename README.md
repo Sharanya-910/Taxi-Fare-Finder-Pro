@@ -70,7 +70,6 @@ This project presents a comprehensive machine learning analysis focused on predi
 
 ## 👨‍💻 Team Members
 
-- **Uday Kiran** – 2451-22-750-006  
 - **Pranavi** – 2451-22-750-011  
 - **Sharanya** – 2451-22-750-051
 
@@ -85,7 +84,4 @@ This project presents a comprehensive machine learning analysis focused on predi
 
 ---
 
-## 📜 License
-
-This project is for educational purposes only.
 
