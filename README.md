@@ -1,13 +1,13 @@
 # Taxi-Fare-Finder-Pro
 This project builds a machine learning model to predict taxi fare amounts based on trip information like pickup and drop-off coordinates, passenger count, and datetime features. It is part of the "Taxi Fare Guru: Total Amount Prediction Challenge" on Kaggle.
 
-# 🚕 Taxi Fare Finder Pro: A Predictive Analytics Project
+#  Taxi Fare Finder Pro: A Predictive Analytics Project
 
 This project presents a comprehensive machine learning analysis focused on predicting taxi fare amounts based on ride-specific parameters. The objective is to build an efficient fare prediction model that can be integrated into ride-hailing platforms to ensure pricing transparency, enhance customer satisfaction, and support operational optimization.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Python (Jupyter Notebook)**
 - **Pandas & NumPy** – Data manipulation  
@@ -17,7 +17,7 @@ This project presents a comprehensive machine learning analysis focused on predi
 
 ---
 
-## 📊 Data Description
+## Data Description
 
 - **Dataset**: Publicly available taxi fare dataset  
 - **Duration**: Covers multiple months of ride data  
@@ -30,7 +30,7 @@ This project presents a comprehensive machine learning analysis focused on predi
 
 ---
 
-## 🔍 Analysis Focus
+## Analysis Focus
 
 - Data Cleaning & Outlier Handling  
 - Exploratory Data Analysis (EDA)  
@@ -41,7 +41,7 @@ This project presents a comprehensive machine learning analysis focused on predi
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 - Fare amounts are significantly influenced by trip distance and time of day  
 - Short-distance trips during peak hours show increased fare variability  
@@ -50,7 +50,7 @@ This project presents a comprehensive machine learning analysis focused on predi
 
 ---
 
-## 🧠 Recommendations
+## Recommendations
 
 - Integrate real-time pricing estimator for customer transparency  
 - Implement dynamic pricing based on traffic, distance, and demand  
@@ -59,7 +59,7 @@ This project presents a comprehensive machine learning analysis focused on predi
 
 ---
 
-## 📈 Outcome
+## Outcome
 
 - **Best Model**: Random Forest Regressor  
 - **RMSE**: ~2.15 (on test set)  
@@ -68,14 +68,14 @@ This project presents a comprehensive machine learning analysis focused on predi
 
 ---
 
-## 👨‍💻 Team Members
+## Team Members
 
 - **Pranavi** – 2451-22-750-011  
 - **Sharanya** – 2451-22-750-051
 
 ---
 
-## 📁 How to Use
+## How to Use
 
 1. Clone the repository  
 2. Open the Jupyter Notebook  
